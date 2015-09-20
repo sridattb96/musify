@@ -1,0 +1,1 @@
+ const unsigned char SwiftRequestVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:SwiftRequest  PROJECT:Pods-0.0.4" "\n"; const double SwiftRequestVersionNumber __attribute__ ((used)) = (double)0.0;

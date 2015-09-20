@@ -1,0 +1,130 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Debug-iphoneos/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Debug-iphoneos/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Debug-iphoneos/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Pods.build/Debug-iphoneos/Pods.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Debug-iphoneos/Unirest.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Base64.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/Base64.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIBaseRequest.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpRequest/UNIBaseRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIBodyRequest.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpRequest/UNIBodyRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIHTTPBinaryResponse.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpResponse/UNIHTTPBinaryResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIHTTPClientHelper.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/UNIHTTPClientHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIHTTPJsonResponse.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpResponse/UNIHTTPJsonResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIHTTPRequest.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/UNIHTTPRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIHTTPRequestWithBody.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/UNIHTTPRequestWithBody.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIHTTPResponse.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpResponse/UNIHTTPResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIHTTPStringResponse.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpResponse/UNIHTTPStringResponse.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIJsonNode.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpResponse/UNIJsonNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIRest.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/UNIRest.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNISimpleRequest.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/HttpRequest/UNISimpleRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "UNIUrlConnection.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Unirest/Unirest/UNIUrlConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "Unirest-Swift.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Debug-iphoneos/Unirest.framework/Headers/Unirest-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Unirest-umbrella.h",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/Target Support Files/Unirest/Unirest-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Debug-iphoneos/Unirest.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Pods.build/Debug-iphoneos/Unirest.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

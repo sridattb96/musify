@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Debug-iphonesimulator/SwiftRequest.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/build/Pods.build/Debug-iphonesimulator/SwiftRequest.build/unextended-module.modulemap',
+    }]
+  }]
+}

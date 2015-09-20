@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "50a3771c330fcfa6884950765da60814"
+build_time: [496014403, 775477000]
+inputs: 
+	"/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/HelloMyo/SuccessViewController.swift": [495968036, 0]

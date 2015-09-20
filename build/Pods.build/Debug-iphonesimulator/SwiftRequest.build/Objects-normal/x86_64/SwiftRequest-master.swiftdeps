@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "583d038836fc8b71352743b2bfd1e8f3"
+build_time: [496012554, 757782000]
+inputs: 
+	"/Users/sridattbhamidipati/Downloads/Myo-iOS-SDK-0.5.2/HelloMyo/Pods/SwiftRequest/SwiftRequest/SwiftRequest.swift": !dirty [496011962, 0]

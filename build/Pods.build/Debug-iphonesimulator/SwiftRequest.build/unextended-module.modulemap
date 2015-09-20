@@ -1,0 +1,10 @@
+framework module SwiftRequest {
+  umbrella header "SwiftRequest-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftRequest.__Swift {
+    exclude header "SwiftRequest-Swift.h"
+}
